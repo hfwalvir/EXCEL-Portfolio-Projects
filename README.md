@@ -11,8 +11,8 @@ This project showcases a range of advanced Excel functionalities, including pivo
 In this project, I utilized Google Sheets to design an interactive and user-friendly dashboard. The project highlights my proficiency in leveraging Google Sheets’ features to create real-time, collaborative dashboards that effectively visualize key metrics and trends, facilitating data-driven decision-making in a cloud-based environment.
 
 **Certifications Completed :**
-AI-Powered Excel: Mastering Built-In Automation Features 
-Excel: Tips and Tricks (2018)
-Business Analytics with Excel: Elementary to Advanced
-Business Analytics with Excel
+AI-Powered Excel: Mastering Built-In Automation Features ,
+Excel: Tips and Tricks (2018),
+Business Analytics with Excel: Elementary to Advanced,
+Business Analytics with Excel,
 Excel	Skills	for	Business Virtual	Experience Program : Goldman Sachs
