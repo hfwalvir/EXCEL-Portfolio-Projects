@@ -10,6 +10,9 @@ This project showcases a range of advanced Excel functionalities, including pivo
 **Dashboard via Google Sheets**  
 In this project, I utilized Google Sheets to design an interactive and user-friendly dashboard. The project highlights my proficiency in leveraging Google Sheets’ features to create real-time, collaborative dashboards that effectively visualize key metrics and trends, facilitating data-driven decision-making in a cloud-based environment.
 
+**Credit Risk Probability Prediction using Monte Carlo Simulation and NORMDIST**
+This project presents an approach to predicting credit risk probability through Monte Carlo simulation, incorporating key financial metrics such as recovery rates and Loss Given Default (LGD). The Monte Carlo simulation is employed to model the uncertainty and variability inherent in credit risk assessment, allowing for the generation of numerous possible outcomes. The NORMDIST function is utilized to estimate the probability of default (PD) by calculating the cumulative distribution of returns. By simulating various scenarios, this model provides a robust framework for understanding and quantifying credit risk, offering valuable insights for financial analysts, risk managers, and other stakeholders in the financial services industry.
+
 **Certifications Completed :**
 AI-Powered Excel: Mastering Built-In Automation Features ,
 Excel: Tips and Tricks (2018),
