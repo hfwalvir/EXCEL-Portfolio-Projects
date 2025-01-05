@@ -13,6 +13,10 @@ In this project, I utilized Google Sheets to design an interactive and user-frie
 **Credit Risk Probability Prediction using Monte Carlo Simulation and NORMDIST**
 This project presents an approach to predicting credit risk probability through Monte Carlo simulation, incorporating key financial metrics such as recovery rates and Loss Given Default (LGD). The Monte Carlo simulation is employed to model the uncertainty and variability inherent in credit risk assessment, allowing for the generation of numerous possible outcomes. The NORMDIST function is utilized to estimate the probability of default (PD) by calculating the cumulative distribution of returns. By simulating various scenarios, this model provides a robust framework for understanding and quantifying credit risk, offering valuable insights for financial analysts, risk managers, and other stakeholders in the financial services industry.
 
+**Variance Analysis Dashboard**  
+
+Developed a dynamic Variance Analysis Dashboard in Excel to compare actual vs. budgeted income and expenses, automating calculations and visualizations for streamlined financial reporting. The dashboard uses advanced Excel functions like SUMIFS, INDEX-MATCH, and IFERROR for automated variance ($ and %) calculations, dynamic summaries, and error handling. Visualizations, including charts, sparklines, and conditional formatting, provide actionable insights into performance trends. Power Query and formula-based automation ensure seamless data import, transformation, and updates, while interactive elements like slicers, dropdowns, and macros enhance user experience. This project demonstrates efficient Excel-based automation and financial analysis.
+
 **Certifications Completed :**
 AI-Powered Excel: Mastering Built-In Automation Features ,
 Excel: Tips and Tricks (2018),
